@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋👋
 
 I'm an enthusiastic software engineer and mechatronics engineer with a passion for building innovative solutions that blend the realms of software and hardware. I love tackling complex challenges and exploring new technologies to create meaningful and impactful projects.
 
@@ -16,15 +16,25 @@ I'm an enthusiastic software engineer and mechatronics engineer with a passion f
 
 
 
-**VERSION CONTROL**
 
+**DATABASES**
+
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
+
+**VERSION CONTROL**
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)
 
 
 
 **GitHub Stats**
+
+
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=bustlezach)](https://github.com/bustlezach)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bustlezach&layout=compact)](https://github.com/bustlezach)
 
