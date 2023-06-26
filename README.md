@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm an enthusiastic software engineer and mechatronics engineer with a passion for building innovative solutions that blend the realms of software and hardware. I love tackling complex challenges and exploring new technologies to create meaningful and impactful projects.
+
 <!--
 **Bustlezach/bustlezach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
