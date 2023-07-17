@@ -9,7 +9,6 @@ I'm an enthusiastic software engineer and mechatronics engineer with a passion f
 - 👯 I’m looking to collaborate on web development projects.
 
   
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=bustlezach.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
 
 **LANGUAGES**
