@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/e0712ff6ac76a98db63ffb044ca2c028ef570c0f09f8432b507e64eb41d5361f/68747470733a2f2f63646e2e627574746572636d732e636f6d2f7a4c6e54665861445177324f6935593038443070)]
+![MasterHead](https://camo.githubusercontent.com/e0712ff6ac76a98db63ffb044ca2c028ef570c0f09f8432b507e64eb41d5361f/68747470733a2f2f63646e2e627574746572636d732e636f6d2f7a4c6e54665861445177324f6935593038443070)
 
 <h1 align="center">Hi 👋, I'm Oluwaseun Olorunshola</h1>
 <h3 align="center">A Mechatronics Engineer and a passionate frontend developer</h3>
